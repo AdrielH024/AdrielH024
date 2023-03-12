@@ -13,7 +13,6 @@ imagens
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" style="height:60px;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" style="height:60px;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" style=height:60px;">
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" style="height:60px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" style="height:60px;"/>
 </div>
 <!--images-->
