@@ -15,8 +15,8 @@ imagens
 <a href="https://www.linkedin.com/in/adriel-henrique-b32305200/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://www.instagram.com/adriel.henrs/?hl=en" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://dev.to/adrielh024" target="_blank">
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
 </a>
 </div>
 <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611b8a79cd01f9b72841cf0a6203bde3d05070c3c8a&rid=giphy.gif&ct=g">
