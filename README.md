@@ -7,13 +7,9 @@ my name is Adriel, i´m Brazilian programmer interested mainly in back-end techn
 <!--
 imagens
 -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" style="height:60px;">
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" style="height:60px;">
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="height:60px;">
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" style="height:60px;">
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" style="height:60px;">
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" style=height:60px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" style="height:60px;"/>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
+
 </div>
 <!--images-->
 <div style="display:"inline-block">
