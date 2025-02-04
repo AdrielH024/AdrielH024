@@ -7,7 +7,7 @@ my name is Adriel, i´m Brazilian programmer interested mainly in back-end techn
 <!--
 imagens
 -->
-<img src="https://skillicons.dev/icons?i=html,css,js,php,java" /></br>
+<img src="https://skillicons.dev/icons?i=python,js,php,java" /></br>
 <img src="https://skillicons.dev/icons?i=nodejs,laravel" />
 </div>
 <!--images-->
